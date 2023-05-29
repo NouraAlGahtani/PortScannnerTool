@@ -16,4 +16,4 @@ for port in range (min_port, max_port + 1) :
     if result == 0:
         print("port", port ,"is open")
     s.close
-    
+
